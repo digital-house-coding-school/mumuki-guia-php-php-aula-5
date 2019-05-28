@@ -1,8 +1,9 @@
 ---
-name: PHP Aula 5
+name: Não Usar - PHP Aula 5
 locale: pt
 type: learning
 beta: false
+teacher_info: ''
 language: php
 id_format: "%05d"
 order: []
